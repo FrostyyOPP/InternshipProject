@@ -1,0 +1,25 @@
+.section-2 {
+  display: flex;
+  margin-top: 80px;
+  justify-content: space-between;
+}
+.sec-design {
+  background: linear-gradient(
+    90deg,
+    #00d2ff -13.02%,
+    rgba(0, 210, 255, 0) 103.77%
+  );
+  width: 590px;
+  height: 358px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.box-1 {
+  display: flex;
+}
+.box-2 {
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+}

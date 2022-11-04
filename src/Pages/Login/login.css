@@ -1,0 +1,15 @@
+.form {
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  margin-top: 50px;
+}
+.form-head {
+  position: absolute;
+  text-align: center;
+  top: 15%;
+  left: 25%;
+}
+.login-logo {
+  width: 200px;
+}

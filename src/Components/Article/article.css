@@ -1,0 +1,21 @@
+.sec-head {
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 68px;
+  font-style: normal;
+}
+.sec-body {
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  letter-spacing: -0.01em;
+  font-feature-settings: "liga" off;
+}
+.sec {
+  width: 600px;
+  height: 306px;
+}

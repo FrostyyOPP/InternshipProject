@@ -1,0 +1,15 @@
+.box {
+  width: 205px;
+  height: 96px;
+  margin: 15px;
+  background: #3a3636;
+  border-radius: 12px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 12px 24px 15px;
+}
+.box-body {
+  font-style: 21px;
+}
